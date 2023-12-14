@@ -20,3 +20,8 @@ For more details on the app development process, read here: [Link to the medium 
 MIT License
 
 Copyright (c) 2023 Krittaprot Tangkittikun
+
+# Information
+* All the code for this application is entirely developed by myself.
+* Referring to the [author of youtube-search-python library](https://github.com/alexmercerind/youtube-search-python?tab=readme-ov-file#license), YouTube T&C stops you from using this library commercially. Respect the law.
+
