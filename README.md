@@ -1,5 +1,8 @@
 # YouTube Comments Analyzer 📈
-This innovative tool leverages the power of natural language processing and sentiment analysis to provide insights into public opinion and trends based on YouTube comments.
+
+![demo_gif](https://github.com/Krittaprot/youtube-comments-analyzer/assets/130896641/ab29576d-90a5-40cc-8556-9d3f94bed4fe)
+
+The app takes in your YouTube video link as input, pull comments data from YouTube API, pre-process it for sentiment analysis (labelling if a comment is positive, neutral, or negative), then the processed data is visualized via the Gradio interface.
 
 Key Features:
 1) Sentiment Analysis: Utilizes the transformers pipeline for sentiment analysis, accurately categorizing comments as positive, negative, or neutral.
