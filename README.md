@@ -13,7 +13,7 @@ The app takes in your YouTube video link as input, pull comments data from YouTu
 4) Word Cloud Generation: Creates visually appealing word clouds to represent the most frequent words in comments.
 5) Gradio Interface: Offers an interactive and user-friendly web interface, making the tool accessible to a wide range of users.
 
-For more details on the app development process, read here: (placeholder for the medium article link)
+For more details on the app development process, read here: [Link to the medium article](https://medium.com/@odeforodds/so-i-decided-to-create-my-own-end-to-end-machine-learning-app-this-is-what-i-learnt-515023a01f6c)
 
 # License
 
