@@ -23,5 +23,6 @@ Copyright (c) 2023 Krittaprot Tangkittikun
 
 # Information
 * All the code for this application is entirely developed by myself.
+* The demo hosted on Hugging Face Space may take a longer time to load when there is a huge load on their end.
 * Referring to the [author of youtube-search-python library](https://github.com/alexmercerind/youtube-search-python?tab=readme-ov-file#license), YouTube T&C stops you from using this library commercially. Respect the law.
 
