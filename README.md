@@ -6,7 +6,7 @@ Access the application demo here: [https://huggingface.co/spaces/Krittaprot/YT-c
 
 The app takes in your YouTube video link as input, pull comments data from YouTube API, pre-process it for sentiment analysis (labelling if a comment is positive, neutral, or negative), then the processed data is visualized via the Gradio interface.
 
-Key Features:
+# Key Features:
 1) Sentiment Analysis: Utilizes the transformers pipeline for sentiment analysis, accurately categorizing comments as positive, negative, or neutral.
 2) YouTube API Integration: Efficiently extracts comments from YouTube videos using the youtube-search-python library, integrated API usage with data extraction.
 3) Data Processing and Visualization: Implements pandas and matplotlib for data handling and visualization, transforming raw data into meaningful insights.
