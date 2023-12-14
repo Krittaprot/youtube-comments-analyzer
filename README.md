@@ -13,6 +13,8 @@ Key Features:
 4) Word Cloud Generation: Creates visually appealing word clouds to represent the most frequent words in comments.
 5) Gradio Interface: Offers an interactive and user-friendly web interface, making the tool accessible to a wide range of users.
 
+For more details on the app development process, read here: (placeholder for the medium article link)
+
 # License
 
 MIT License
