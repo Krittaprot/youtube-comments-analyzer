@@ -2,7 +2,7 @@
 
 ![demo_gif](https://github.com/Krittaprot/youtube-comments-analyzer/assets/130896641/ab29576d-90a5-40cc-8556-9d3f94bed4fe)
 
-Access the application demo here: [https://huggingface.co/spaces/Krittaprot/YT-comments-analyzer-demo]([url](https://huggingface.co/spaces/Krittaprot/YT-comments-analyzer-demo))
+Access the application demo here: [Link to the demo](https://huggingface.co/spaces/Krittaprot/YT-comments-analyzer-demo)
 
 The app takes in your YouTube video link as input, pull comments data from YouTube API, pre-process it for sentiment analysis (labelling if a comment is positive, neutral, or negative), then the processed data is visualized via the Gradio interface.
 
